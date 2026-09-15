@@ -1,0 +1,11 @@
+{
+  "name": "com.yourstudio.behaviortree",
+  "version": "1.0.0",
+  "displayName": "Behavior Tree Core",
+  "description": "Lightweight, engine-agnostic behavior tree framework for Unity. Pure C# nodes, blackboard-based data sharing, fluent builder API. Reusable across any project or game type.",
+  "unity": "6000.3",
+  "keywords": ["ai", "behavior tree", "gameplay", "utility"],
+  "author": {
+    "name": "William"
+  }
+}
